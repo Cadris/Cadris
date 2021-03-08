@@ -3,7 +3,7 @@
 
 [comment]: <**Cadris/Cadris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.> 
 
-Here are some ideas to get you started:
+Some Info On me:
 
 - 🔭 I’m currently working on - Game Devolopment
 - 🌱 I’m currently learning - React and React Native
