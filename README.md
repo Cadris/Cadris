@@ -5,7 +5,7 @@
 
 Some Info On me:
 
-- 🔭 I’m currently working on - Game Devolopment
+- 🔭 I’m currently working on - Aptitude Training
 - 🌱 I’m currently learning - React and React Native
 - 👯 I’m looking to collaborate on - Web Devolopment
 - 🤔 I’m looking for help with Game Devolopment
