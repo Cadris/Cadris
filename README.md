@@ -12,3 +12,5 @@ Some Info On me:
 - 📫 How to reach me: sayan20062000@gmail.com, cadrissilver@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cadris&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cadris&label=Profile%20views&color=0e75b6&style=flat" alt="Cadris" /> </p>
