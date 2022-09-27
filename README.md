@@ -5,10 +5,10 @@
 
 Some Info On me:
 
-- 🔭 I’m currently working on - Aptitude Training
-- 🌱 I’m currently learning - MEAN
+- 🔭 I’m currently working on - Java Spring Boot Applications 
+- 🌱 I’m currently learning - KAFKA Implementation with java
 - 👯 I’m looking to collaborate on - Web Devolopment
-- 🤔 I’m looking for help with Game Devolopment
+- 🤔 I’m looking for help with Front End Development
 - 📫 How to reach me: sayan20062000@gmail.com, cadrissilver@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cadris&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
